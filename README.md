@@ -105,3 +105,6 @@ int[] viewIDs = { android.R.id.text1 };
 
 String[] dataColumns = { NotePad.Notes.COLUMN_NAME_TITLE, NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE }//加入修改时间;
 int[] viewIDs = { android.R.id.text1, R.id.text2 }//加入修改时间;
+
+
+![image text](%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE1.png)
